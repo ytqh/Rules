@@ -1,0 +1,7 @@
+PROCESS-NAME,syncthing 
+PROCESS-NAME,v2ray 
+PROCESS-NAME,aria2c 
+PROCESS-NAME,dyn_updater 
+DOMAIN,cloudflare-dns.com  // DOH
+DOMAIN-KEYWORD,speedtestx // Speed Test
+DOMAIN-SUFFIX,andns.co // v2ray proxy
