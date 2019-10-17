@@ -1,3 +1,11 @@
+# ytqh Customsize
+DOMAIN,hls.itunes.apple.com
+DOMAIN,hls-amt.itunes.apple.com
+DOMAIN-SUFFIX,developer.apple.com
+DOMAIN-SUFFIX,help.apple.com
+DOMAIN-SUFFIX,blog.twitter.com
+AND,((OR,((DOMAIN-KEYWORD,appsflyer), (DOMAIN-SUFFIX,segment.com))), (USER-AGENT,*Safari*))
+
 # > Client
 PROCESS-NAME,Backup and Sync
 PROCESS-NAME,Day One

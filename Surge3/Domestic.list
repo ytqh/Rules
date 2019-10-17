@@ -1,3 +1,8 @@
+# ytqh Customize
+DOMAIN,pan.baidu.com
+DOMAIN,baike.baidu.com
+DOMAIN,map.baidu.com
+
 # > Client
 PROCESS-NAME,ss-local
 
@@ -71,7 +76,6 @@ DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,aweme.snssdk.com
 DOMAIN-SUFFIX,bababian.com
-DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
