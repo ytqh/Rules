@@ -18,7 +18,6 @@ DOMAIN-SUFFIX,cupid.iqiyi.com
 DOMAIN-SUFFIX,emoticon.sns.iqiyi.com
 DOMAIN-SUFFIX,game.pps.tv
 DOMAIN-SUFFIX,gamecenter.iqiyi.com
-DOMAIN-SUFFIX,hotchat-im.iqiyi.com
 DOMAIN-SUFFIX,ifacelog.iqiyi.com
 DOMAIN-SUFFIX,mbdlog.iqiyi.com
 DOMAIN-SUFFIX,msg.71.am
@@ -287,7 +286,6 @@ DOMAIN-KEYWORD,analysis
 DOMAIN-KEYWORD,analysys
 DOMAIN-KEYWORD,applovin
 DOMAIN-KEYWORD,appsflyer
-DOMAIN-KEYWORD,dataflow
 DOMAIN-KEYWORD,dnserror
 DOMAIN-KEYWORD,domob
 DOMAIN-KEYWORD,duomeng
@@ -307,9 +305,7 @@ DOMAIN-KEYWORD,securepubads
 DOMAIN-KEYWORD,socdm
 DOMAIN-KEYWORD,supersonicads
 DOMAIN-KEYWORD,taboola
-DOMAIN-KEYWORD,traffic
 DOMAIN-KEYWORD,uedas
-DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,umtrack
 DOMAIN-KEYWORD,uploadMobileData
 DOMAIN-KEYWORD,wlmonitor
@@ -1590,7 +1586,6 @@ DOMAIN-SUFFIX,apk.supfast.net
 DOMAIN-SUFFIX,apkdo.com
 DOMAIN-SUFFIX,apkinfo.voole.com
 DOMAIN-SUFFIX,apklog.cp11.ott.cibntv.net
-DOMAIN-SUFFIX,apm.suning.cn
 DOMAIN-SUFFIX,apnmedia.ask.com
 DOMAIN-SUFFIX,apns.ios.ijinshan.com
 DOMAIN-SUFFIX,apoll.m.taobao.com
@@ -2746,7 +2741,6 @@ DOMAIN-SUFFIX,dashet.com
 DOMAIN-SUFFIX,data.3975.com
 DOMAIN-SUFFIX,data.ad-score.com
 DOMAIN-SUFFIX,data.apn.co.nz
-DOMAIN-SUFFIX,data.bilibili.com
 DOMAIN-SUFFIX,data.danmu.baofeng.com
 DOMAIN-SUFFIX,data.doodlemobile.com
 DOMAIN-SUFFIX,data.gosquared.com
@@ -3956,7 +3950,6 @@ DOMAIN-SUFFIX,hmyangshengji.com
 DOMAIN-SUFFIX,hnasd.com
 DOMAIN-SUFFIX,hnctsm.com
 DOMAIN-SUFFIX,hndiyikj.com
-DOMAIN-SUFFIX,hnol.net
 DOMAIN-SUFFIX,hnxxjn.com
 DOMAIN-SUFFIX,hnyny.com
 DOMAIN-SUFFIX,hoisin.coocaatv.com
@@ -7008,7 +7001,6 @@ DOMAIN-SUFFIX,sub.topber.com
 DOMAIN-SUFFIX,subswin.com
 DOMAIN-SUFFIX,sucodb.com
 DOMAIN-SUFFIX,sugar.zhihu.com
-DOMAIN-SUFFIX,suggestqueries.google.com
 DOMAIN-SUFFIX,sunjianhao.com
 DOMAIN-SUFFIX,suoooi.cn
 DOMAIN-SUFFIX,super.cat898.com
@@ -7963,7 +7955,6 @@ DOMAIN-SUFFIX,xmcmn.com
 DOMAIN-SUFFIX,xmcxz.com
 DOMAIN-SUFFIX,xmindchina.net
 DOMAIN-SUFFIX,xmnmeu.cn
-DOMAIN-SUFFIX,xmpush.xiaomi.com
 DOMAIN-SUFFIX,xmrts.com
 DOMAIN-SUFFIX,xmshqh.com
 DOMAIN-SUFFIX,xmsqz.com
@@ -8347,6 +8338,7 @@ URL-REGEX,https?://sax\w?.sina.com.cn
 URL-REGEX,https?://server-\w+.imrworldwide.com
 URL-REGEX,https?://t\d{2}.baidu.com
 URL-REGEX,https?://www.bldimg.com/(background|splash)/.+.png$
+URL-REGEX,https?://api.zhihu.com/(fringe|zst|real_time|ad-style-service|banners|topstory/hot-lists|market/popover|mqtt|me|.*launch|.*featured-comment-ad|search/(top|tabs|preset))
 
 IP-CIDR,1.3.0.10/32,no-resolve
 IP-CIDR,10.72.25.0/24,no-resolve
