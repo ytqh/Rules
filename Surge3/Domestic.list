@@ -4,7 +4,6 @@ DOMAIN,baike.baidu.com
 DOMAIN,map.baidu.com
 DOMAIN,ip.istatmenus.app
 PROCESS-NAME,WeChat
-URL-REGEX,mmtls
 
 # > Client
 PROCESS-NAME,ss-local
@@ -18,6 +17,7 @@ USER-AGENT,TIM*
 USER-AGENT,ting_en
 USER-AGENT,WebTorrent*
 USER-AGENT,WeChat*
+USER-AGENT,MicroMessenger*
 
 # > Beplay
 DOMAIN-KEYWORD,beplay
