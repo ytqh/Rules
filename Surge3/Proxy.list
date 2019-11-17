@@ -1,3 +1,7 @@
+# ytqh Customsize
+DOMAIN-SUFFIX,steampowered.com
+AND,((OR,((DOMAIN-KEYWORD,appsflyer), (DOMAIN-SUFFIX,segment.com))), (USER-AGENT,*Safari*))
+
 # > Client
 PROCESS-NAME,Backup and Sync
 PROCESS-NAME,Day One
