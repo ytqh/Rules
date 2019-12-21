@@ -2,5 +2,12 @@ PROCESS-NAME,syncthing
 PROCESS-NAME,v2ray 
 PROCESS-NAME,aria2c 
 DOMAIN,cloudflare-dns.com  // DOH
-DOMAIN-KEYWORD,speedtestx // Speed Test
 DOMAIN-SUFFIX,andns.co // v2ray proxy
+
+# > Fast
+DOMAIN-SUFFIX,fast.com
+
+# > Speedtest
+DOMAIN-KEYWORD,speedtest
+DOMAIN-KEYWORD,speedtestx // Speed Test
+DOMAIN-SUFFIX,ooklaserver.net
