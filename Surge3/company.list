@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,ctripgslb.com
+DOMAIN-SUFFIX,global.ctrip.com
+DOMAIN-SUFFIX,tripcorp.com
+DOMAIN-SUFFIX,ctripcorp.com
+DOMAIN-SUFFIX,ctriptravel.com
+IP-CIDR,10.25.60.0/24,no-resolve
+IP-CIDR,192.168.19.0/24,no-resolve
+IP-CIDR,192.168.83.0/24,no-resolve
+AND,((OR,((DEST-PORT,80), (DEST-PORT,5300-5900), (DEST-PORT,22), (DEST-PORT,8080))), (IP-CIDR,10.0.0.0/8))
