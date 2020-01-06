@@ -1,5 +1,6 @@
 # ytqh Customize
 PROCESS-NAME,WeChat
+DOMAIN-SUFFIX,ctrip.com
 
 # > Client
 PROCESS-NAME,ss-local
