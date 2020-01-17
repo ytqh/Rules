@@ -3,7 +3,9 @@ DOMAIN-SUFFIX,global.ctrip.com
 DOMAIN-SUFFIX,tripcorp.com
 DOMAIN-SUFFIX,ctripcorp.com
 DOMAIN-SUFFIX,ctriptravel.com
+DOMAIN-SUFFIX,myworkday.com
+DOMAIN-SUFFIX,myworkdaycdn.com
 IP-CIDR,10.25.60.0/24,no-resolve
 IP-CIDR,192.168.19.0/24,no-resolve
 IP-CIDR,192.168.83.0/24,no-resolve
-AND,((OR,((DEST-PORT,80), (DEST-PORT,5300-5900), (DEST-PORT,22), (DEST-PORT,8080))), (IP-CIDR,10.0.0.0/8))
+AND,((OR,((DEST-PORT,5300-5900), (DEST-PORT,22), (DEST-PORT,8080))), (IP-CIDR,10.0.0.0/8))
