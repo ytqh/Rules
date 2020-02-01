@@ -1,3 +1,4 @@
-DOMAIN,hls.itunes.apple.com
-DOMAIN,hls-amt.itunes.apple.com
 DOMAIN-SUFFIX,developer.apple.com
+DOMAIN-SUFFIX,testflight.apple.com
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
