@@ -171,7 +171,6 @@ DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,dueapp.com
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,easybib.com
-DOMAIN-SUFFIX,economist.com
 DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,edgesuite.net
@@ -624,6 +623,7 @@ DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,economist
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,abc.xyz
