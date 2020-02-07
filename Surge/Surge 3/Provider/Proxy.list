@@ -165,6 +165,7 @@ DOMAIN-SUFFIX,dnsimple.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,doub.io
 DOMAIN-SUFFIX,dowjones.com
+DOMAIN-SUFFIX,dowjones.io
 DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,droplr.com
 DOMAIN-SUFFIX,duckduckgo.com
@@ -582,6 +583,10 @@ DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,wwitv.com
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,vidora.com
+DOMAIN-SUFFIX,barrons.com
 DOMAIN-SUFFIX,xanga.com
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xda-developers.com
