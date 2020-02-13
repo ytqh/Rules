@@ -1,2 +1,4 @@
+# > Mainly for dev site
 DOMAIN-SUFFIX,developer.apple.com
 DOMAIN-SUFFIX,testflight.apple.com
+DOMAIN-SUFFIX,appstoreconnect.apple.com

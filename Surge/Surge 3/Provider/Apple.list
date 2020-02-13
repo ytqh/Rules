@@ -18,7 +18,6 @@ USER-AGENT,locationd*
 USER-AGENT,Maps*
 USER-AGENT,TestFlight*
 DOMAIN,apple.comscoreresearch.com
-DOMAIN-SUFFIX,appstoreconnect.apple.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,apple.com
