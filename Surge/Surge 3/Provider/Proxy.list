@@ -1,6 +1,7 @@
 # ytqh Customsize
 DOMAIN-SUFFIX,llvm.org
 DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,pypi.org
 
 
 # > Anki
