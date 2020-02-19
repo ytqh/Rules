@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,llvm.org
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,matters.news
 
 
 # > Anki
