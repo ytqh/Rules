@@ -1,10 +1,2 @@
 PROCESS-NAME,v2ray 
 PROCESS-NAME,timed
-
-# > Fast
-DOMAIN-SUFFIX,fast.com
-
-# > Speedtest
-DOMAIN-KEYWORD,speedtest
-DOMAIN-KEYWORD,speedtestx // Speed Test
-DOMAIN-SUFFIX,ooklaserver.net
