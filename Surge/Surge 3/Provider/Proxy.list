@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,edx-cdn.org
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,delicious.com
 DOMAIN-SUFFIX,protonmail.com
+DOMAIN-SUFFIX,alfredforum.com
+DOMAIN-SUFFIX,alfredapp.com
+DOMAIN-SUFFIX,papersapp.com
 
 # > Anki
 DOMAIN-SUFFIX,ankiweb.net

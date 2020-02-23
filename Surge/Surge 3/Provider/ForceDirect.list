@@ -1,4 +1,5 @@
 PROCESS-NAME,v2ray 
+PROCESS-NAME,timed
 
 # > Fast
 DOMAIN-SUFFIX,fast.com
