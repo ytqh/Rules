@@ -1,16 +1,6 @@
 # ytqh Customize
 PROCESS-NAME,WeChat
 
-# > UA
-USER-AGENT,hide*
-USER-AGENT,MicroMessenger*
-USER-AGENT,PayPal*
-USER-AGENT,TeamViewer*
-USER-AGENT,TIM*
-USER-AGENT,ting_en
-USER-AGENT,WebTorrent*
-USER-AGENT,WeChat*
-
 # > Beplay
 DOMAIN-KEYWORD,beplay
 
@@ -32,10 +22,6 @@ DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-
-# > Steam
-USER-AGENT,Steam*
-DOMAIN-SUFFIX,steamcontent.com
 
 # > TeamViewer
 IP-CIDR,185.188.32.0/24,no-resolve
@@ -67,14 +53,15 @@ DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,api.crisp.chat
-DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,appshike.com
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,autonavi.com
@@ -195,6 +182,7 @@ DOMAIN-SUFFIX,pgyer.com
 DOMAIN-SUFFIX,pniao.com
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,pt.m-team.cc
 DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qdaily.com
@@ -215,6 +203,7 @@ DOMAIN-SUFFIX,rrmj.tv
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,sf-express.com
+DOMAIN,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,sinaapp.com
 DOMAIN-SUFFIX,sinaimg.cn
 DOMAIN-SUFFIX,sinaimg.com
@@ -244,7 +233,6 @@ DOMAIN-SUFFIX,tmzvps.com
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trellocdn.com
 DOMAIN-SUFFIX,totheglory.im
-DOMAIN-SUFFIX,tp.m-team.cc
 DOMAIN-SUFFIX,ttmeiju.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,udache.com
