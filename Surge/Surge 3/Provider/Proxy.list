@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,protonmail.com
 DOMAIN-SUFFIX,alfredforum.com
 DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,papersapp.com
+DOMAIN-SUFFIX,download.maxmind.com 
 
 # > Anki
 DOMAIN-SUFFIX,ankiweb.net
