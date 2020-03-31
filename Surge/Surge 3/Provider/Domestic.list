@@ -1,6 +1,7 @@
 # ytqh Customize
 PROCESS-NAME,WeChat
 DOMAIN-SUFFIX,arlo.com
+DOMAIN-KEYWORD,arlos3
 
 # > Beplay
 DOMAIN-KEYWORD,beplay
