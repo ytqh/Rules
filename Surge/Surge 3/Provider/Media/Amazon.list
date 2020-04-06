@@ -7,5 +7,7 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN,m.media-amazon.com
+DOMAIN,device-metrics-us-2.amazon.com
 DOMAIN-KEYWORD,fe.amazon.com
 DOMAIN-KEYWORD,g7g.amazon.com
+DOMAIN-KEYWORD,ext.amazon.com
