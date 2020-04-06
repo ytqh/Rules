@@ -6,4 +6,5 @@ DOMAIN-SUFFIX,amazonaws.co.uk
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,llnwd.net
-DOMAIN-KEYWORD,amazon.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
+DOMAIN-SUFFIX,media-amazon.com
