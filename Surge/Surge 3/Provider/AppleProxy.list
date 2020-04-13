@@ -1,5 +1,5 @@
 # > Mainly for dev site
-DOMAIN-SUFFIX,developer.apple.com
-DOMAIN-SUFFIX,testflight.apple.com
-DOMAIN-SUFFIX,appstoreconnect.apple.com
+DOMAIN,developer.apple.com
+DOMAIN,testflight.apple.com
+DOMAIN,appstoreconnect.apple.com
 USER-AGENT,TestFlight*

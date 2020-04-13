@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,netgear.com
 DOMAIN-SUFFIX,ARLO.COM
 DOMAIN-KEYWORD,arlos3
 DOMAIN-SUFFIX,c-ctrip.com
+DOMAIN-SUFFIX,91mjw.com
+DOMAIN-SUFFIX,aiweigou.top
+DOMAIN,bilibili.com-l-163.com
 
 # > Beplay
 DOMAIN-KEYWORD,beplay
@@ -68,6 +71,7 @@ DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,aweme.snssdk.com
 DOMAIN-SUFFIX,bababian.com
+DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
@@ -134,8 +138,6 @@ DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ifengimg.com
 DOMAIN-SUFFIX,images-amazon.com
 DOMAIN-SUFFIX,img4me.com
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,ithome.com
 DOMAIN-SUFFIX,ixdzs.com
 DOMAIN-SUFFIX,jd.com
@@ -262,7 +264,6 @@ DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xitek.com
 DOMAIN-SUFFIX,xmcdn.com
 DOMAIN-SUFFIX,xslb.net
-DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,yach.me
 DOMAIN-SUFFIX,yeepay.com
 DOMAIN-SUFFIX,yhd.com
