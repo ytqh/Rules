@@ -6141,7 +6141,6 @@
 - DOMAIN-SUFFIX,pv.focus.cn,AdBlock
 - DOMAIN-SUFFIX,pv.ra.icast.cn,AdBlock
 - DOMAIN-SUFFIX,pv.sogou.com,AdBlock
-- DOMAIN-SUFFIX,pv.sohu.com,AdBlock
 - DOMAIN-SUFFIX,pv.xcar.com.cn,AdBlock
 - DOMAIN-SUFFIX,pv.zdnet.com.cn,AdBlock
 - DOMAIN-SUFFIX,pv.zol.com.cn,AdBlock
@@ -8505,14 +8504,14 @@
 # > BBC iPlayer
 # - USER-AGENT,BBCiPlayer*,GlobalTV
 - DOMAIN-KEYWORD,bbcfmt,GlobalTV
-- DOMAIN,as-dash-uk-live.bbcfmt.hs.llnwd.net,GlobalTV
+- DOMAIN,aod-dash-uk-live.akamaized.net,GlobalTV
+- DOMAIN,aod-hls-uk-live.akamaized.net,GlobalTV
 - DOMAIN,vod-dash-uk-live.akamaized.net,GlobalTV
 - DOMAIN,vod-thumb-uk-live.akamaized.net,GlobalTV
-- DOMAIN,vod-dash-uk-live.bbcfmt.hs.llnwd.net,GlobalTV
-- DOMAIN,vod-thumb-uk-live.bbcfmt.hs.llnwd.net,GlobalTV
-- DOMAIN-SUFFIX,bbc.com,GlobalTV
 - DOMAIN-SUFFIX,bbc.co,GlobalTV
 - DOMAIN-SUFFIX,bbc.co.uk,GlobalTV
+- DOMAIN-SUFFIX,bbc.com,GlobalTV
+- DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net,GlobalTV
 - DOMAIN-SUFFIX,bbci.co,GlobalTV
 - DOMAIN-SUFFIX,bbci.co.uk,GlobalTV
 
