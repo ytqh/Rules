@@ -2094,12 +2094,14 @@ DOMAIN-SUFFIX,c.zgnm.cc
 DOMAIN-SUFFIX,c.zlongad.com
 DOMAIN-SUFFIX,c.zmjuan.org
 DOMAIN-SUFFIX,c.zxyywdj.org
+DOMAIN-SUFFIX,c0.ifengimg.com
 DOMAIN-SUFFIX,c03.optimix.asia
 DOMAIN-SUFFIX,c0563.com
 DOMAIN-SUFFIX,c0594.com
 DOMAIN-SUFFIX,c0i8h8ac7e.bid
 DOMAIN-SUFFIX,c1.4qx.net
 DOMAIN-SUFFIX,c1.668559.com
+DOMAIN-SUFFIX,c1.ifengimg.com
 DOMAIN-SUFFIX,c1.keyrun.cn
 DOMAIN-SUFFIX,c1.lianwangtech.com
 DOMAIN-SUFFIX,c1.minisplat.cn
@@ -8246,8 +8248,6 @@ DOMAIN-SUFFIX,zzy1.mipujia.com
 DOMAIN-SUFFIX,zzy1.quyaoya.com
 DOMAIN-SUFFIX,zzz7.52896368.com
 DOMAIN-SUFFIX,zzzzz4.52896368.com
-
-DOMAIN-SUFFIX,baidu.com
 
 # > Baidu
 DOMAIN-SUFFIX,baidustatic.com
