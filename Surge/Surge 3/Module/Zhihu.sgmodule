@@ -1,6 +1,5 @@
 #!name=Zhihu
 #!desc=Zhihu app removes ads.
-#!system=ios
 
 [Rule]
 USER-AGENT,AVOS*,REJECT-TINYGIF
