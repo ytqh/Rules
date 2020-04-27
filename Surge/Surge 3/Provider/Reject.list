@@ -1,3 +1,6 @@
+# custom
+AND,((NOT,((DOMAIN,pan.baidu.com))), (DOMAIN-KEYWORD,baidu.com))
+
 # Ads in Video apps
 
 # > iqiyi & pps
@@ -280,7 +283,7 @@ DOMAIN-KEYWORD,allyes
 DOMAIN-KEYWORD,analysis
 DOMAIN-KEYWORD,analysys
 DOMAIN-KEYWORD,applovin
-DOMAIN-KEYWORD,appsflyer
+AND,((NOT,((DOMAIN,support.appsflyer.com))), (DOMAIN-KEYWORD,appsflyer))
 DOMAIN-KEYWORD,dnserror
 DOMAIN-KEYWORD,domob
 DOMAIN-KEYWORD,duomeng

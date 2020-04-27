@@ -644,7 +644,7 @@ DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
-DOMAIN-KEYWORD,google
+AND,((NOT,((DOMAIN,dl.google.com))), (DOMAIN-KEYWORD,google))
 DOMAIN-KEYWORD,economist
 DOMAIN-SUFFIX,economistdesignsystem.com
 DOMAIN-SUFFIX,1e100.net
