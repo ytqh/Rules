@@ -1,4 +1,5 @@
 # ytqh
+PROCESS-NAME,caddy
 DOMAIN,dns.google
 DOMAIN,dns.adguard.com
 
