@@ -7,7 +7,6 @@ DOMAIN-SUFFIX,edx.org
 DOMAIN-SUFFIX,edx-cdn.org
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,delicious.com
-DOMAIN-SUFFIX,protonmail.com
 DOMAIN-SUFFIX,alfredforum.com
 DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,papersapp.com
@@ -665,7 +664,6 @@ DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,gcr.io
-DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gosetsuden.jp
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gwtproject.org
