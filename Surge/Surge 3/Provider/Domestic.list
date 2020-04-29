@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,cibntv.net
 DOMAIN,bilibili.com-l-163.com
 DOMAIN,api.dianshihome2.com
+DOMAIN-SUFFIX,chtbl.com
 
 # > Beplay
 DOMAIN-KEYWORD,beplay
