@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,cibntv.net
 DOMAIN,bilibili.com-l-163.com
 DOMAIN,api.dianshihome2.com
 DOMAIN-SUFFIX,chtbl.com
+DOMAIN-SUFFIX,fireside.fm
 
 # > Beplay
 DOMAIN-KEYWORD,beplay
