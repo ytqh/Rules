@@ -639,6 +639,7 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,github
+AND,((NOT,((DOMAIN-SUFFIX,amazonaws.com))), (DOMAIN-KEYWORD,github))
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
