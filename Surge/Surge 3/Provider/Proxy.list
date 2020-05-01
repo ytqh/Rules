@@ -1,6 +1,8 @@
 # ytqh Customsize
 DOMAIN-SUFFIX,oreilly.com
 DOMAIN-SUFFIX,oreillystatic.com
+DOMAIN-SUFFIX,safaribooksonline.com
+DOMAIN-SUFFIX,seamlessaccess.org
 DOMAIN-SUFFIX,llvm.org
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,pypi.org
