@@ -1,0 +1,5 @@
+#!name=Keep Focus
+#!desc=Keep Focus on Valuable Things
+
+[Rule]
+DOMAIN-KEYWORD,weibo,REJECT
