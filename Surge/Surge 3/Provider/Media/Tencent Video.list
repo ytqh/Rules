@@ -1,4 +1,5 @@
 # > Tencent Video
+DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,vv.video.qq.com
 IP-CIDR,203.205.0.0/16,no-resolve
 IP-CIDR,182.254.0.0/16,no-resolve

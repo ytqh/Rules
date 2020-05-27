@@ -32,6 +32,9 @@ DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-KEYWORD,mtalk.google.com
 DOMAIN,safebrowsing.googleapis.com
 
+# > Microsoft
+DOMAIN-SUFFIX,msftconnecttest.com
+
 # > Proxy plugin
 PROCESS-NAME,v2ray
 PROCESS-NAME,ss-local
