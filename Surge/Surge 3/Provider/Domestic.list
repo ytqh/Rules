@@ -16,6 +16,7 @@ DOMAIN,api.dianshihome2.com
 DOMAIN-SUFFIX,chtbl.com
 DOMAIN-SUFFIX,fireside.fm
 DOMAIN-SUFFIX,download.maxmind.com 
+DOMAIN-SUFFIX,coursera.org
 
 # > Beplay
 DOMAIN-KEYWORD,beplay
