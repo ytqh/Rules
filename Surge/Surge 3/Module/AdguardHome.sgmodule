@@ -1,5 +1,6 @@
 #!name=AdguardHome
 #!desc=Config AdguardHome Server as local dns server
 
+[General]
 dns-server = 127.0.0.1
 doh-server = 127.0.0.1
