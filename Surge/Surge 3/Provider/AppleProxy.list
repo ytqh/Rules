@@ -2,4 +2,5 @@
 DOMAIN,developer.apple.com
 DOMAIN,testflight.apple.com
 DOMAIN,appstoreconnect.apple.com
+DOMAIN,devstreaming-cdn.apple.com
 USER-AGENT,TestFlight*
