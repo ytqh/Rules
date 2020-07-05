@@ -2,5 +2,5 @@
 #!desc=Config DNS over https
 
 [General]
-doh-server = https://223.5.5.5/dns-query, https://dns.google/dns-query
+doh-server = https://223.5.5.5/dns-query
 dns-server = 223.5.5.5
