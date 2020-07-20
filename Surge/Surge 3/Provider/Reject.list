@@ -1,5 +1,6 @@
 # custom
 AND,((NOT,((DOMAIN,pan.baidu.com))), (DOMAIN-KEYWORD,baidu.com))
+DOMAIN,api.mc.cibn.cc
 
 #TITLE=anti-AD
 #VER=20200719131132
