@@ -5,6 +5,8 @@ DOMAIN,dns.google
 DOMAIN,dns.adguard.com
 SRC-IP,192.168.238.100
 IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
 
 # > Dler Cloud
 DOMAIN-SUFFIX,dler.cloud
