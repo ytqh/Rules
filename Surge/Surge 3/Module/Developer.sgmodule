@@ -1,0 +1,5 @@
+#!name=For Development MitM
+#!desc=Add dev purpose domain
+
+[MITM]
+hostname = %APPEND% theinitium-staging.initiumlab.com
