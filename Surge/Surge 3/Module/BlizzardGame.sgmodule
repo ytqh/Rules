@@ -1,0 +1,5 @@
+#!name=For Blizzard Game
+#!desc=Blizzard Game
+
+[General]
+always-real-ip = *.battlenet.com.cn, *.battle.net, *.blizzardgames.cn
