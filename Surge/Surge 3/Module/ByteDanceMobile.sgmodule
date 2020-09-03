@@ -1,0 +1,6 @@
+#!name=ByteDance Module
+#!desc=Configure ByteDance Network
+#!system=ios
+
+[SSID Setting]
+"ByteDance Inc" suspend=true
