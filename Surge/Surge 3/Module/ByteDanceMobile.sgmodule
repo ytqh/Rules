@@ -1,9 +1,0 @@
-#!name=ByteDance Mobile Module
-#!desc=Configure ByteDance Network
-#!system=ios
-
-[General]
-dns-server = system
-
-[SSID Setting]
-"ByteDance Inc" suspend=true

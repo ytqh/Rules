@@ -1,5 +1,5 @@
-#!name=ByteDance Module
-#!desc=Configure ByteDance Network
+#!name=ByteDance
+#!desc=Configure in ByteDance Network
 
 [General]
 dns-server = system
