@@ -1,0 +1,5 @@
+#!name=ByteDance
+#!desc=Configure in ByteDance Network
+
+[General]
+dns-server = system

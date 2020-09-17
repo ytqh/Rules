@@ -2,7 +2,4 @@
 #!desc=Keep Focus on Valuable Things
 
 [Rule]
-DOMAIN-KEYWORD,weibo,REJECT
-DOMAIN-KEYWORD,twitter,REJECT
-DOMAIN-KEYWORD,instagram,REJECT
-DOMAIN-SUFFIX,hupu.com,REJECT
+RULE-SET,https://raw.githubusercontent.com/ytqh/Rules/master/Surge/Surge%203/Provider/Distraction.list,REJECT
