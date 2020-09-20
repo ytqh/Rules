@@ -2,4 +2,4 @@
 #!desc=Add dev purpose domain
 
 [MITM]
-hostname = %APPEND% theinitium-staging.initiumlab.com
+hostname = %APPEND% theinitium-staging.initiumlab.com, daliapp.net
