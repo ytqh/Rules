@@ -1,5 +1,4 @@
 # custom
-AND,((NOT,((DOMAIN,pan.baidu.com))), (DOMAIN-KEYWORD,baidu.com))
 DOMAIN,api.mc.cibn.cc
 
 # Ads in Video apps
