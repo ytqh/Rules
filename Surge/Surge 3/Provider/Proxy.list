@@ -1,25 +1,3 @@
-# ytqh Customsize
-DOMAIN-SUFFIX,oreilly.com
-DOMAIN-SUFFIX,oreillystatic.com
-DOMAIN-SUFFIX,safaribooksonline.com
-DOMAIN-SUFFIX,seamlessaccess.org
-DOMAIN-SUFFIX,llvm.org
-DOMAIN-SUFFIX,pythonhosted.org
-DOMAIN-SUFFIX,pypi.org
-DOMAIN-SUFFIX,matters.news
-DOMAIN-SUFFIX,edx.org
-DOMAIN-SUFFIX,edx-cdn.org
-DOMAIN-SUFFIX,wunderlist.com
-DOMAIN-SUFFIX,delicious.com
-DOMAIN-SUFFIX,alfredforum.com
-DOMAIN-SUFFIX,alfredapp.com
-DOMAIN-SUFFIX,papersapp.com
-DOMAIN-SUFFIX,infoq.com
-DOMAIN-SUFFIX,deepl.com
-DOMAIN-SUFFIX,sonatype.org
-DOMAIN-SUFFIX,oxforddictionaries.com
-DOMAIN-SUFFIX,amazon.jobs
-
 # > Anki
 DOMAIN-SUFFIX,ankiweb.net
 
