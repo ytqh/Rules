@@ -5,7 +5,9 @@
 force-http-engine-hosts = %APPEND% *.tiktokv.com, *.byteoversea.com, *.musical.ly, *.snssdk.com
 
 [URL Rewrite]
+(?<=residence=)CN(?=&) US 307
 (?<=_region=)CN(?=&) US 307
+(?<=language=)zh(?=&) en 307
 (?<=_region1=)CN(?=&) US 307
 (?<=&app_version=)17..(?=.?.?&) 1 307
 (?<=\?version_code=)17..(?=.?.?&) 1 307
