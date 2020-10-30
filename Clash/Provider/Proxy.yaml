@@ -8,6 +8,11 @@ payload:
   - DOMAIN-SUFFIX,line-scdn.net
   - DOMAIN-SUFFIX,nhncorp.jp
 
+  # > Riot Games
+  - DOMAIN-SUFFIX,riotcdn.net
+  - DOMAIN-SUFFIX,wr.pvp.net
+  - DOMAIN-SUFFIX,riotgames.com
+
   # > Sony
   - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstation.net
@@ -649,6 +654,7 @@ payload:
   - DOMAIN-SUFFIX,gmail.com
   - DOMAIN-SUFFIX,gosetsuden.jp
   - DOMAIN-SUFFIX,gwtproject.org
+  - DOMAIN-SUFFIX,hackmd.io
   - DOMAIN-SUFFIX,heroku.com
   - DOMAIN-SUFFIX,html5rocks.com
   - DOMAIN-SUFFIX,keyhole.com
