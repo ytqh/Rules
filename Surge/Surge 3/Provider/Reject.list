@@ -8375,7 +8375,7 @@ IP-CIDR,124.14.21.147/32,no-resolve
 IP-CIDR,124.14.21.151/32,no-resolve
 IP-CIDR,180.166.52.24/32,no-resolve
 IP-CIDR,220.115.251.25/32,no-resolve
-IP-CIDR,222.73.156.235/32
+IP-CIDR,222.73.156.235/32,no-resolve
 IP-CIDR,111.175.220.164/32,no-resolve
 # > China Unicom
 IP-CIDR,106.75.231.48/32,no-resolve
