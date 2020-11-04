@@ -10,4 +10,6 @@ DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN,atv-ext.amazon.com
 DOMAIN,device-metrics-us.amazon.com
+DOMAIN,atv-ps.amazon.com
+DOMAIN,fls-na.amazon.com
 AND,((DOMAIN-SUFFIX,cloudfront.net), (USER-AGENT,Apple%20TV*))
