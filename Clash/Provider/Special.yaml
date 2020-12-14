@@ -54,6 +54,18 @@ payload:
   - DOMAIN-SUFFIX,xunlei.com
 
   # > Download
+  - PROCESS-NAME,aria2c.exe
+  - PROCESS-NAME,BitComet.exe
+  - PROCESS-NAME,fdm.exe
+  # - PROCESS-NAME,IDMan.exe
+  - PROCESS-NAME,NetTransport.exe
+  - PROCESS-NAME,qbittorrent.exe
+  - PROCESS-NAME,Thunder.exe
+  - PROCESS-NAME,ThunderVIP.exe
+  - PROCESS-NAME,transmission-daemon.exe
+  - PROCESS-NAME,transmission-qt.exe
+  - PROCESS-NAME,uTorrent.exe
+  - PROCESS-NAME,WebTorrent.exe
   - PROCESS-NAME,aria2c
   - PROCESS-NAME,fdm
   - PROCESS-NAME,Folx
@@ -95,9 +107,3 @@ payload:
   - DOMAIN-SUFFIX,smtp
   # - URL-REGEX,(Subject|HELO|SMTP)
 
-  - DOMAIN-SUFFIX,local
-  - IP-CIDR,127.0.0.0/8
-  - IP-CIDR,172.16.0.0/12
-  - IP-CIDR,192.168.0.0/16
-  - IP-CIDR,10.0.0.0/8
-  - IP-CIDR,100.64.0.0/10
