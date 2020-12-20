@@ -1,6 +1,9 @@
 #!name=Router DNS
 #!desc=Configure as Home Router
+#!system=mac
 
 [General]
-dns-server = 192.168.1.1, 223.5.5.5, 8.8.8.8
-skip-proxy = %APPEND% 192.168.0.0/16
+dns-server = 192.168.1.1, 8.8.8.8
+skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local
+tun-excluded-routes = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12
+tun-included-routes = 192.168.1.12/3
