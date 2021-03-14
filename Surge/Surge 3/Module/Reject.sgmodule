@@ -1,5 +1,0 @@
-#!name=Remove Ads
-#!desc=Removes ads.
-
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/ytqh/Rules/master/Surge/Surge%203/Provider/Reject.list,REJECT
