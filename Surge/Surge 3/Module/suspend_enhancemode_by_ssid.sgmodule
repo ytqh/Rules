@@ -1,0 +1,5 @@
+#!name=Suspend EnhanceMode by SSID
+#!desc=Suspend EnhanceMode by SSID
+
+[Script]
+network-changed.js = type=event, event-name=network-changed, script-path=https://raw.githubusercontent.com/ytqh/Rules/master/Surge/Surge%203/Script/network-changed.js,
