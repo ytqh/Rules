@@ -1,6 +1,7 @@
 # ytqh
 PROCESS-NAME,caddy
 PROCESS-NAME,syncthing
+PROCESS-SUFFIX,syncthing.net
 PROCESS-NAME,vsls-agent
 DOMAIN,dns.google
 DOMAIN,dns.google.com
