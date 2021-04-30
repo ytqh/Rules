@@ -19,3 +19,6 @@ DOMAIN-SUFFIX,disney-portal.my.onetrust.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
+
+# ESPN & National Geographic
+DOMAIN-SUFFIX,espn.com
