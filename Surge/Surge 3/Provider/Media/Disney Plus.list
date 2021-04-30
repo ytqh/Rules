@@ -22,4 +22,5 @@ DOMAIN-SUFFIX,js-agent.newrelic.com
 
 # ESPN & National Geographic
 DOMAIN-SUFFIX,espn.com
+DOMAIN-SUFFIX,nationalgeographic.com
 DOMAIN-KEYWORD,natgeo
