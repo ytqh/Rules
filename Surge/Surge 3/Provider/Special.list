@@ -3,6 +3,7 @@ PROCESS-NAME,caddy
 PROCESS-NAME,syncthing
 PROCESS-NAME,vsls-agent
 DOMAIN-SUFFIX,syncthing.net
+DOMAIN,ip.istatmenus.app
 DOMAIN,dns.google
 DOMAIN,dns.google.com
 DOMAIN,dns.adguard.com
