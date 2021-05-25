@@ -1,13 +1,3 @@
-# Custom
-DOMAIN-SUFFIX,feedbin.com
-DOMAIN-SUFFIX,blinkload.org
-DOMAIN-KEYWORD,projectdiablo2
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,fs.blog
-
-# > Anki
-DOMAIN-SUFFIX,ankiweb.net
-
 # > Line
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line.me
