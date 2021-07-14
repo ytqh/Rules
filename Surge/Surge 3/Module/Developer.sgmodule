@@ -2,4 +2,8 @@
 #!desc=Add dev purpose domain
 
 [MITM]
-hostname = %APPEND% theinitium-staging.initiumlab.com, *.daliapp.net
+hostname = %APPEND% *.daliapp.net
+
+[Rule]
+DOMAIN-SUFFIX,snssdk.com,DIRECT
+DOMAIN-SUFFIX,bdurl.net,DIRECT
